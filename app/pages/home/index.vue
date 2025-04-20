@@ -1,6 +1,7 @@
 <template>
   <div>
     <SummaryCardsList />
+    <AddOperationModal />
   </div>
 </template>
 
