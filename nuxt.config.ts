@@ -26,7 +26,7 @@ export default defineNuxtConfig({
       tailwindcss(),
     ],
     server: {
-      allowedHosts: ['8fed-171-22-124-18.ngrok-free.app', 'http://localhost:3000']
+      allowedHosts: ['e3d9-171-22-124-18.ngrok-free.app', 'http://localhost:3000']
     }
   },
 
